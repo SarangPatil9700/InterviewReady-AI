@@ -1,0 +1,8 @@
+{
+  "name": "InterviewReady AI — Your Personal AI Interview Coach",
+  "description": "Personalized AI-powered interview practice platform for Indian college students and freshers preparing for software and IT roles.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
